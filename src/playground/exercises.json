@@ -1,0 +1,1815 @@
+{ "results":
+  [
+    {
+      "name": "Clean from Blocks",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/746/Male/m/746_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/746/Male/m/746_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Barbell",
+      "rating": "9.5",
+      "link": "/exercises/clean-from-blocks",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Clean Deadlift",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/671/Male/m/671_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/671/Male/m/671_2.jpg"
+      ],
+      "muscle": "Hamstrings",
+      "equipment": "Barbell",
+      "rating": "9.4",
+      "link": "/exercises/clean-deadlift",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Push Press",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/186/Male/m/186_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/186/Male/m/186_2.jpg"
+      ],
+      "muscle": "Shoulders",
+      "equipment": "Barbell",
+      "rating": "9.3",
+      "link": "/exercises/push-press",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Snatch",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/187/Male/m/187_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/187/Male/m/187_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Barbell",
+      "rating": "9.3",
+      "link": "/exercises/snatch",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Clean and Jerk",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/670/Male/m/670_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/670/Male/m/670_2.jpg"
+      ],
+      "muscle": "Shoulders",
+      "equipment": "Barbell",
+      "rating": "9.3",
+      "link": "/exercises/clean-and-jerk",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Hang Clean",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/688/Male/m/688_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/688/Male/m/688_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Barbell",
+      "rating": "9.3",
+      "link": "/exercises/hang-clean",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Power Snatch",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/703/Male/m/703_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/703/Male/m/703_2.jpg"
+      ],
+      "muscle": "Hamstrings",
+      "equipment": "Barbell",
+      "rating": "9.2",
+      "link": "/exercises/power-snatch",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Romanian Deadlift from Deficit",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/751/Male/m/751_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/751/Male/m/751_2.jpg"
+      ],
+      "muscle": "Hamstrings",
+      "equipment": "Barbell",
+      "rating": "9.2",
+      "link": "/exercises/romanian-deadlift-from-deficit",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Power Clean from Blocks",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/748/Male/m/748_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/748/Male/m/748_2.jpg"
+      ],
+      "muscle": "Hamstrings",
+      "equipment": "Barbell",
+      "rating": "9.2",
+      "link": "/exercises/power-clean-from-blocks",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Olympic Squat",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/700/Male/m/700_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/700/Male/m/700_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Barbell",
+      "rating": "9.1",
+      "link": "/exercises/olympic-squat-",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Snatch Deadlift",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/716/Male/m/716_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/716/Male/m/716_2.jpg"
+      ],
+      "muscle": "Hamstrings",
+      "equipment": "Barbell",
+      "rating": "8.9",
+      "link": "/exercises/snatch-deadlift",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Hang Snatch",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/690/Male/m/690_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/690/Male/m/690_2.jpg"
+      ],
+      "muscle": "Hamstrings",
+      "equipment": "Barbell",
+      "rating": "8.7",
+      "link": "/exercises/hang-snatch",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Clean",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/669/Male/m/669_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/669/Male/m/669_2.jpg"
+      ],
+      "muscle": "Hamstrings",
+      "equipment": "Barbell",
+      "rating": "8.5",
+      "link": "/exercises/clean",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Wide Stance Stiff Legs",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/744/Male/m/744_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/744/Male/m/744_2.jpg"
+      ],
+      "muscle": "Hamstrings",
+      "equipment": "Barbell",
+      "rating": "8.5",
+      "link": "/exercises/wide-stance-stiff-legs",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Hang Clean - Below the Knees",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/689/Male/m/689_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/689/Male/m/689_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Barbell",
+      "rating": "8.5",
+      "link": "/exercises/hang-clean-below-the-knees",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Split Jerk",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/719/Male/m/719_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/719/Male/m/719_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Barbell",
+      "rating": "8.3",
+      "link": "/exercises/split-jerk",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Power Jerk",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/702/Male/m/702_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/702/Male/m/702_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Barbell",
+      "rating": "8.2",
+      "link": "/exercises/power-jerk-",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Jerk Dip Squat",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/695/Male/m/695_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/695/Male/m/695_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Barbell",
+      "rating": "8",
+      "link": "/exercises/jerk-dip-squat",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Overhead Squat",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/248/Male/m/248_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/248/Male/m/248_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Barbell",
+      "rating": "7.9",
+      "link": "/exercises/overhead-squat",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Frankenstein Squat",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/684/Male/m/684_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/684/Male/m/684_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Barbell",
+      "rating": "7.7",
+      "link": "/exercises/frankenstein-squat",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Kneeling Jump Squat",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/749/Male/m/749_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/749/Male/m/749_2.jpg"
+      ],
+      "muscle": "Glutes",
+      "equipment": "Barbell",
+      "rating": "7.6",
+      "link": "/exercises/kneeling-jump-squat",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Clean Pull",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/672/Male/m/672_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/672/Male/m/672_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Barbell",
+      "rating": "7.2",
+      "link": "/exercises/clean-pull-",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Clean Shrug",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/673/Male/m/673_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/673/Male/m/673_2.jpg"
+      ],
+      "muscle": "Traps",
+      "equipment": "Barbell",
+      "rating": "6.8",
+      "link": "/exercises/clean-shrug",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Push Press - Behind the Neck",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/708/Male/m/708_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/708/Male/m/708_2.jpg"
+      ],
+      "muscle": "Shoulders",
+      "equipment": "Barbell",
+      "rating": "6.5",
+      "link": "/exercises/push-press-behind-the-neck",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Snatch Shrug",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/718/Male/m/718_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/718/Male/m/718_2.jpg"
+      ],
+      "muscle": "Traps",
+      "equipment": "Barbell",
+      "rating": "6.2",
+      "link": "/exercises/snatch-shrug",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Hang Snatch - Below Knees",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/691/Male/m/691_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/691/Male/m/691_2.jpg"
+      ],
+      "muscle": "Hamstrings",
+      "equipment": "Barbell",
+      "rating": "n/a",
+      "link": "/exercises/hang-snatch-below-knees",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Jerk Balance",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/694/Male/m/694_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/694/Male/m/694_2.jpg"
+      ],
+      "muscle": "Shoulders",
+      "equipment": "Barbell",
+      "rating": "n/a",
+      "link": "/exercises/jerk-balance",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Muscle Snatch",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/699/Male/m/699_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/699/Male/m/699_2.jpg"
+      ],
+      "muscle": "Hamstrings",
+      "equipment": "Barbell",
+      "rating": "n/a",
+      "link": "/exercises/muscle-snatch",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Snatch from Blocks",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/745/Male/m/745_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/745/Male/m/745_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Barbell",
+      "rating": "n/a",
+      "link": "/exercises/snatch-from-blocks",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Split Clean",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/755/Male/m/755_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/755/Male/m/755_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Barbell",
+      "rating": "n/a",
+      "link": "/exercises/split-clean",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Heaving Snatch Balance",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/693/Male/m/693_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/693/Male/m/693_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Barbell",
+      "rating": "n/a",
+      "link": "/exercises/heaving-snatch-balance",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Rack Delivery",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/709/Male/m/709_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/709/Male/m/709_2.jpg"
+      ],
+      "muscle": "Shoulders",
+      "equipment": "Barbell",
+      "rating": "n/a",
+      "link": "/exercises/rack-delivery",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Snatch Balance",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/715/Male/m/715_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/715/Male/m/715_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Barbell",
+      "rating": "n/a",
+      "link": "/exercises/snatch-balance-",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Split Snatch",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/720/Male/m/720_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/720/Male/m/720_2.jpg"
+      ],
+      "muscle": "Hamstrings",
+      "equipment": "Barbell",
+      "rating": "n/a",
+      "link": "/exercises/split-snatch",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Power Snatch from Blocks",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/747/Male/m/747_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/747/Male/m/747_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Barbell",
+      "rating": "n/a",
+      "link": "/exercises/power-snatch-from-blocks",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Tall Muscle Snatch",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/3851/Male/m/3851_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/3851/Male/m/3851_2.jpg"
+      ],
+      "muscle": "Shoulders",
+      "equipment": "Barbell",
+      "rating": "n/a",
+      "link": "/exercises/tall-muscle-snatch",
+      "type": "olympic weightlifting"
+    },
+    {
+      "name": "Single Leg Push-off",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/818/Male/m/818_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/818/Male/m/818_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Other",
+      "rating": "9.2",
+      "link": "/exercises/single-leg-push-off",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Side to Side Box Shuffle",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/817/Male/m/817_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/817/Male/m/817_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Other",
+      "rating": "8.9",
+      "link": "/exercises/side-to-side-box-shuffle",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Double Leg Butt Kick",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/778/Male/m/778_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/778/Male/m/778_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Body Only",
+      "rating": "8.8",
+      "link": "/exercises/double-leg-butt-kick",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Standing Long Jump",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/831/Male/m/831_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/831/Male/m/831_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Body Only",
+      "rating": "8.8",
+      "link": "/exercises/standing-long-jump",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Mountain Climbers",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/608/Male/m/608_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/608/Male/m/608_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "None",
+      "rating": "8.8",
+      "link": "/exercises/mountain-climbers",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Drop Push",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/779/Male/m/779_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/779/Male/m/779_2.jpg"
+      ],
+      "muscle": "Chest",
+      "equipment": "Other",
+      "rating": "8.8",
+      "link": "/exercises/drop-push",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Front Box Jump",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/782/Male/m/782_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/782/Male/m/782_2.jpg"
+      ],
+      "muscle": "Hamstrings",
+      "equipment": "Other",
+      "rating": "8.6",
+      "link": "/exercises/front-box-jump",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Sledgehammer Swings",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/916/Male/m/916_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/916/Male/m/916_2.jpg"
+      ],
+      "muscle": "Abdominals",
+      "equipment": "Other",
+      "rating": "8.6",
+      "link": "/exercises/sledgehammer-swings",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Scissors Jump",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/813/Male/m/813_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/813/Male/m/813_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Body Only",
+      "rating": "8.5",
+      "link": "/exercises/scissors-jump",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Jumping Jacks",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/2943/Male/m/2943_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/2943/Male/m/2943_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "None",
+      "rating": "8.5",
+      "link": "/exercises/jumping-jacks",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Linear Acceleration Wall Drill",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/951/Male/m/951_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/951/Male/m/951_2.jpg"
+      ],
+      "muscle": "Hamstrings",
+      "equipment": "None",
+      "rating": "8.3",
+      "link": "/exercises/linear-acceleration-wall-drill",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Dumbbell Seated Box Jump",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/1151/Male/m/1151_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/1151/Male/m/1151_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Dumbbell",
+      "rating": "8.3",
+      "link": "/exercises/dumbbell-seated-box-jump",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Chest Push (multiple response)",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/769/Male/m/769_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/769/Male/m/769_2.jpg"
+      ],
+      "muscle": "Chest",
+      "equipment": "Medicine Ball",
+      "rating": "8.3",
+      "link": "/exercises/chest-push-multiple-response",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Incline Push-Up Depth Jump",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/789/Male/m/789_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/789/Male/m/789_2.jpg"
+      ],
+      "muscle": "Chest",
+      "equipment": "Other",
+      "rating": "8.3",
+      "link": "/exercises/incline-push-up-depth-jump",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Alien Squat",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4541/Male/m/4541_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4541/Male/m/4541_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Body Only",
+      "rating": "8.2",
+      "link": "/exercises/alien-squat",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Supine Chest Throw",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/838/Male/m/838_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/838/Male/m/838_2.jpg"
+      ],
+      "muscle": "Triceps",
+      "equipment": "Medicine Ball",
+      "rating": "8.2",
+      "link": "/exercises/supine-chest-throw",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Box Jump (Multiple Response)",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/766/Male/m/766_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/766/Male/m/766_2.jpg"
+      ],
+      "muscle": "Hamstrings",
+      "equipment": "Other",
+      "rating": "8.1",
+      "link": "/exercises/box-jump-multiple-response",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Knee Tuck Jump",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/793/Male/m/793_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/793/Male/m/793_2.jpg"
+      ],
+      "muscle": "Hamstrings",
+      "equipment": "Body Only",
+      "rating": "8.1",
+      "link": "/exercises/knee-tuck-jump",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Rocket Jump",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/812/Male/m/812_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/812/Male/m/812_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Body Only",
+      "rating": "8",
+      "link": "/exercises/rocket-jump",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Wall Ball Squat",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4151/Male/m/4151_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4151/Male/m/4151_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Medicine Ball",
+      "rating": "8",
+      "link": "/exercises/wall-ball-squat",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Depth Jump Leap",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/775/Male/m/775_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/775/Male/m/775_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Other",
+      "rating": "8",
+      "link": "/exercises/depth-jump-leap",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Overhead Slam",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/905/Male/m/905_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/905/Male/m/905_2.jpg"
+      ],
+      "muscle": "Lats",
+      "equipment": "Medicine Ball",
+      "rating": "7.9",
+      "link": "/exercises/overhead-slam",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Single Leg Butt Kick",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/819/Male/m/819_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/819/Male/m/819_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Body Only",
+      "rating": "7.7",
+      "link": "/exercises/single-leg-butt-kick",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Jump Squat",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/2953/Male/m/2953_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/2953/Male/m/2953_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Body Only",
+      "rating": "7.6",
+      "link": "/exercises/jump-squat",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Vertical Swing",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/842/Male/m/842_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/842/Male/m/842_2.jpg"
+      ],
+      "muscle": "Hamstrings",
+      "equipment": "Dumbbell",
+      "rating": "7.5",
+      "link": "/exercises/vertical-swing",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Split Jump",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/826/Male/m/826_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/826/Male/m/826_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Body Only",
+      "rating": "7.5",
+      "link": "/exercises/split-jump",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Plyo Push-up",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/910/Male/m/910_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/910/Male/m/910_2.jpg"
+      ],
+      "muscle": "Chest",
+      "equipment": "Body Only",
+      "rating": "7.5",
+      "link": "/exercises/plyo-push-up",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Bench Jump",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/1891/Male/m/1891_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/1891/Male/m/1891_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Body Only",
+      "rating": "7.5",
+      "link": "/exercises/bench-jump",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Moving Claw Series",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/1041/Male/m/1041_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/1041/Male/m/1041_2.jpg"
+      ],
+      "muscle": "Hamstrings",
+      "equipment": "None",
+      "rating": "7.3",
+      "link": "/exercises/moving-claw-series-",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Front Cone Hops (or hurdle hops)",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/783/Male/m/783_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/783/Male/m/783_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Other",
+      "rating": "7.3",
+      "link": "/exercises/front-cone-hops-or-hurdle-hops",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Lateral Bound",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/794/Male/m/794_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/794/Male/m/794_2.jpg"
+      ],
+      "muscle": "Adductors",
+      "equipment": "Body Only",
+      "rating": "7.3",
+      "link": "/exercises/lateral-bound-",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Isometric Chest Squeezes",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/92/Male/m/92_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/92/Male/m/92_2.jpg"
+      ],
+      "muscle": "Chest",
+      "equipment": "Body Only",
+      "rating": "7.1",
+      "link": "/exercises/isometric-chest-squeezes",
+      "type": "plyometrics"
+    },
+    {
+      "name": "90-Degree Jump Squat Twist",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4721/Male/m/4721_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4721/Male/m/4721_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Body Only",
+      "rating": "7",
+      "link": "/exercises/90-degree-jump-squat-twist",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Bench Sprint",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/1901/Male/m/1901_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/1901/Male/m/1901_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Other",
+      "rating": "7",
+      "link": "/exercises/bench-sprint",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Alternate Leg Diagonal Bound",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/760/Male/m/760_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/760/Male/m/760_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "None",
+      "rating": "6.9",
+      "link": "/exercises/alternate-leg-diagonal-bound",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Backward Medicine Ball Throw",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/764/Male/m/764_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/764/Male/m/764_2.jpg"
+      ],
+      "muscle": "Shoulders",
+      "equipment": "Medicine Ball",
+      "rating": "6.8",
+      "link": "/exercises/backward-medicine-ball-throw",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Medicine Ball Chest Pass",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/801/Male/m/801_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/801/Male/m/801_2.jpg"
+      ],
+      "muscle": "Chest",
+      "equipment": "Medicine Ball",
+      "rating": "5.9",
+      "link": "/exercises/medicine-ball-chest-pass",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Catch and Overhead Throw",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/768/Male/m/768_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/768/Male/m/768_2.jpg"
+      ],
+      "muscle": "Lats",
+      "equipment": "Medicine Ball",
+      "rating": "5.8",
+      "link": "/exercises/catch-and-overhead-throw",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Fast Skipping",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/780/Male/m/780_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/780/Male/m/780_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Body Only",
+      "rating": "5.5",
+      "link": "/exercises/fast-skipping",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Supine Two-Arm Overhead Throw",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/840/Male/m/840_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/840/Male/m/840_2.jpg"
+      ],
+      "muscle": "Abdominals",
+      "equipment": "Medicine Ball",
+      "rating": "5.3",
+      "link": "/exercises/supine-two-arm-overhead-throw",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Kneeling Arm Drill",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/1021/Male/m/1021_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/1021/Male/m/1021_2.jpg"
+      ],
+      "muscle": "Shoulders",
+      "equipment": "None",
+      "rating": "4",
+      "link": "/exercises/kneeling-arm-drill-",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Medicine Ball Scoop Throw",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/805/Male/m/805_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/805/Male/m/805_2.jpg"
+      ],
+      "muscle": "Shoulders",
+      "equipment": "Medicine Ball",
+      "rating": "3.4",
+      "link": "/exercises/medicine-ball-scoop-throw",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Chest Push (single response)",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/770/Male/m/770_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/770/Male/m/770_2.jpg"
+      ],
+      "muscle": "Chest",
+      "equipment": "Medicine Ball",
+      "rating": "n/a",
+      "link": "/exercises/chest-push-single-response",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Hurdle Hops",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/788/Male/m/788_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/788/Male/m/788_2.jpg"
+      ],
+      "muscle": "Hamstrings",
+      "equipment": "Other",
+      "rating": "n/a",
+      "link": "/exercises/hurdle-hops",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Return Push from Stance",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/811/Male/m/811_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/811/Male/m/811_2.jpg"
+      ],
+      "muscle": "Shoulders",
+      "equipment": "Medicine Ball",
+      "rating": "n/a",
+      "link": "/exercises/return-push-from-stance",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Lateral Bound",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/794/Male/m/794_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/794/Male/m/794_2.jpg"
+      ],
+      "muscle": "Adductors",
+      "equipment": "Body Only",
+      "rating": "7.3",
+      "link": "/exercises/lateral-bound-",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Isometric Chest Squeezes",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/92/Male/m/92_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/92/Male/m/92_2.jpg"
+      ],
+      "muscle": "Chest",
+      "equipment": "Body Only",
+      "rating": "7.1",
+      "link": "/exercises/isometric-chest-squeezes",
+      "type": "plyometrics"
+    },
+    {
+      "name": "90-Degree Jump Squat Twist",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4721/Male/m/4721_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4721/Male/m/4721_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Body Only",
+      "rating": "7",
+      "link": "/exercises/90-degree-jump-squat-twist",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Bench Sprint",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/1901/Male/m/1901_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/1901/Male/m/1901_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Other",
+      "rating": "7",
+      "link": "/exercises/bench-sprint",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Alternate Leg Diagonal Bound",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/760/Male/m/760_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/760/Male/m/760_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "None",
+      "rating": "6.9",
+      "link": "/exercises/alternate-leg-diagonal-bound",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Backward Medicine Ball Throw",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/764/Male/m/764_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/764/Male/m/764_2.jpg"
+      ],
+      "muscle": "Shoulders",
+      "equipment": "Medicine Ball",
+      "rating": "6.8",
+      "link": "/exercises/backward-medicine-ball-throw",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Medicine Ball Chest Pass",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/801/Male/m/801_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/801/Male/m/801_2.jpg"
+      ],
+      "muscle": "Chest",
+      "equipment": "Medicine Ball",
+      "rating": "5.9",
+      "link": "/exercises/medicine-ball-chest-pass",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Catch and Overhead Throw",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/768/Male/m/768_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/768/Male/m/768_2.jpg"
+      ],
+      "muscle": "Lats",
+      "equipment": "Medicine Ball",
+      "rating": "5.8",
+      "link": "/exercises/catch-and-overhead-throw",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Fast Skipping",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/780/Male/m/780_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/780/Male/m/780_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Body Only",
+      "rating": "5.5",
+      "link": "/exercises/fast-skipping",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Supine Two-Arm Overhead Throw",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/840/Male/m/840_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/840/Male/m/840_2.jpg"
+      ],
+      "muscle": "Abdominals",
+      "equipment": "Medicine Ball",
+      "rating": "5.3",
+      "link": "/exercises/supine-two-arm-overhead-throw",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Kneeling Arm Drill",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/1021/Male/m/1021_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/1021/Male/m/1021_2.jpg"
+      ],
+      "muscle": "Shoulders",
+      "equipment": "None",
+      "rating": "4",
+      "link": "/exercises/kneeling-arm-drill-",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Medicine Ball Scoop Throw",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/805/Male/m/805_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/805/Male/m/805_2.jpg"
+      ],
+      "muscle": "Shoulders",
+      "equipment": "Medicine Ball",
+      "rating": "3.4",
+      "link": "/exercises/medicine-ball-scoop-throw",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Chest Push (single response)",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/770/Male/m/770_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/770/Male/m/770_2.jpg"
+      ],
+      "muscle": "Chest",
+      "equipment": "Medicine Ball",
+      "rating": "n/a",
+      "link": "/exercises/chest-push-single-response",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Hurdle Hops",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/788/Male/m/788_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/788/Male/m/788_2.jpg"
+      ],
+      "muscle": "Hamstrings",
+      "equipment": "Other",
+      "rating": "n/a",
+      "link": "/exercises/hurdle-hops",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Return Push from Stance",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/811/Male/m/811_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/811/Male/m/811_2.jpg"
+      ],
+      "muscle": "Shoulders",
+      "equipment": "Medicine Ball",
+      "rating": "n/a",
+      "link": "/exercises/return-push-from-stance",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Side Hop-Sprint",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/816/Male/m/816_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/816/Male/m/816_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Other",
+      "rating": "n/a",
+      "link": "/exercises/side-hop-sprint",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Single-Leg Hop Progression",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/821/Male/m/821_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/821/Male/m/821_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Other",
+      "rating": "n/a",
+      "link": "/exercises/single-leg-hop-progression",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Standing Two-Arm Overhead Throw",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/834/Male/m/834_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/834/Male/m/834_2.jpg"
+      ],
+      "muscle": "Shoulders",
+      "equipment": "Medicine Ball",
+      "rating": "n/a",
+      "link": "/exercises/standing-two-arm-overhead-throw",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Stride Jump Crossover",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/837/Male/m/837_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/837/Male/m/837_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Other",
+      "rating": "n/a",
+      "link": "/exercises/stride-jump-crossover",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Carioca Quick Step",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/961/Male/m/961_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/961/Male/m/961_2.jpg"
+      ],
+      "muscle": "Adductors",
+      "equipment": "None",
+      "rating": "n/a",
+      "link": "/exercises/carioca-quick-step",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Side Standing Long Jump",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/971/Male/m/971_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/971/Male/m/971_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "None",
+      "rating": "n/a",
+      "link": "/exercises/side-standing-long-jump",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Single-Cone Sprint Drill",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/981/Male/m/981_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/981/Male/m/981_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Other",
+      "rating": "n/a",
+      "link": "/exercises/single-cone-sprint-drill",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Linear 3-Part Start Technique",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/1031/Male/m/1031_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/1031/Male/m/1031_2.jpg"
+      ],
+      "muscle": "Hamstrings",
+      "equipment": "None",
+      "rating": "n/a",
+      "link": "/exercises/linear-3-part-start-technique",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Linear Depth Jump",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/1141/Male/m/1141_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/1141/Male/m/1141_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Other",
+      "rating": "n/a",
+      "link": "/exercises/linear-depth-jump",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Square Hop",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/3163/Male/m/3163_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/3163/Male/m/3163_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Body Only",
+      "rating": "n/a",
+      "link": "/exercises/square-hop",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Single-Leg Box Jump",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4071/Male/m/4071_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4071/Male/m/4071_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Other",
+      "rating": "n/a",
+      "link": "/exercises/single-leg-box-jump",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Burpee Over Barbell",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4221/Male/m/4221_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4221/Male/m/4221_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Barbell",
+      "rating": "n/a",
+      "link": "/exercises/burpee-over-barbell",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Clapping Push-Up",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4621/Male/m/4621_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4621/Male/m/4621_2.jpg"
+      ],
+      "muscle": "Chest",
+      "equipment": "Body Only",
+      "rating": "n/a",
+      "link": "/exercises/clapping-push-up",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Triple Clap Push-Up",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4631/Male/m/4631_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4631/Male/m/4631_2.jpg"
+      ],
+      "muscle": "Chest",
+      "equipment": "Body Only",
+      "rating": "n/a",
+      "link": "/exercises/triple-clap-push-up",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Decline Explosive Push-Up",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4961/Male/m/4961_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4961/Male/m/4961_2.jpg"
+      ],
+      "muscle": "Chest",
+      "equipment": "Other",
+      "rating": "n/a",
+      "link": "/exercises/decline-explosive-push-up",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Sprawl Frog Kick",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5193/Male/m/5193_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5193/Male/m/5193_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Body Only",
+      "rating": "n/a",
+      "link": "/exercises/sprawl-frog-kick",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Running Lunge",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5323/Male/m/5323_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5323/Male/m/5323_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Body Only",
+      "rating": "n/a",
+      "link": "/exercises/running-lunge",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Southpaw Sprawl",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5353/Male/m/5353_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5353/Male/m/5353_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Body Only",
+      "rating": "n/a",
+      "link": "/exercises/southpaw-sprawl",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Lunge Heel Kick",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5383/Male/m/5383_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5383/Male/m/5383_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Body Only",
+      "rating": "n/a",
+      "link": "/exercises/lunge-heel-kick",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Gorilla Squat",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5393/Male/m/5393_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5393/Male/m/5393_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Body Only",
+      "rating": "n/a",
+      "link": "/exercises/gorilla-squat",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Burppe Box Jump",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5423/Male/m/5423_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5423/Male/m/5423_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Other",
+      "rating": "n/a",
+      "link": "/exercises/burppe-box-jump",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Box Skip",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/767/Male/m/767_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/767/Male/m/767_2.jpg"
+      ],
+      "muscle": "Hamstrings",
+      "equipment": "Other",
+      "rating": "n/a",
+      "link": "/exercises/box-skip",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Chest Push from 3 point stance",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/771/Male/m/771_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/771/Male/m/771_2.jpg"
+      ],
+      "muscle": "Chest",
+      "equipment": "Medicine Ball",
+      "rating": "n/a",
+      "link": "/exercises/chest-push-from-3-point-stance",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Chest Push with Run Release",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/772/Male/m/772_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/772/Male/m/772_2.jpg"
+      ],
+      "muscle": "Chest",
+      "equipment": "Medicine Ball",
+      "rating": "n/a",
+      "link": "/exercises/chest-push-with-run-release",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Heavy Bag Thrust",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/786/Male/m/786_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/786/Male/m/786_2.jpg"
+      ],
+      "muscle": "Chest",
+      "equipment": "Other",
+      "rating": "n/a",
+      "link": "/exercises/heavy-bag-thrust",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Lateral Box Jump",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/795/Male/m/795_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/795/Male/m/795_2.jpg"
+      ],
+      "muscle": "Adductors",
+      "equipment": "Other",
+      "rating": "n/a",
+      "link": "/exercises/lateral-box-jump",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Lateral Cone Hops",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/796/Male/m/796_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/796/Male/m/796_2.jpg"
+      ],
+      "muscle": "Adductors",
+      "equipment": "Other",
+      "rating": "n/a",
+      "link": "/exercises/lateral-cone-hops",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Medicine Ball Full Twist",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/802/Male/m/802_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/802/Male/m/802_2.jpg"
+      ],
+      "muscle": "Abdominals",
+      "equipment": "Medicine Ball",
+      "rating": "n/a",
+      "link": "/exercises/medicine-ball-full-twist",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Quick Leap",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/810/Male/m/810_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/810/Male/m/810_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Other",
+      "rating": "n/a",
+      "link": "/exercises/quick-leap",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Single-Leg Lateral Hop",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/822/Male/m/822_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/822/Male/m/822_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Other",
+      "rating": "n/a",
+      "link": "/exercises/single-leg-lateral-hop",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Single-Leg Stride Jump",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/824/Male/m/824_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/824/Male/m/824_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Other",
+      "rating": "n/a",
+      "link": "/exercises/single-leg-stride-jump",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Star Jump",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/835/Male/m/835_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/835/Male/m/835_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Body Only",
+      "rating": "n/a",
+      "link": "/exercises/star-jump",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Supine One-Arm Overhead Throw",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/839/Male/m/839_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/839/Male/m/839_2.jpg"
+      ],
+      "muscle": "Abdominals",
+      "equipment": "Medicine Ball",
+      "rating": "n/a",
+      "link": "/exercises/supine-one-arm-overhead-throw",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Feet Jack",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/2973/Male/m/2973_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/2973/Male/m/2973_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Body Only",
+      "rating": "n/a",
+      "link": "/exercises/feet-jack",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Jump Lunge To Feet Jack",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/3003/Male/m/3003_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/3003/Male/m/3003_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Body Only",
+      "rating": "n/a",
+      "link": "/exercises/jump-lunge-to-feet-jack",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Slide Jump Shot",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/3073/Male/m/3073_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/3073/Male/m/3073_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Body Only",
+      "rating": "n/a",
+      "link": "/exercises/slide-jump-shot",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Ice Skater",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4081/Male/m/4081_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4081/Male/m/4081_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Body Only",
+      "rating": "n/a",
+      "link": "/exercises/ice-skater",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Burpee Pull-Up",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4161/Male/m/4161_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4161/Male/m/4161_2.jpg"
+      ],
+      "muscle": "Lats",
+      "equipment": "Other",
+      "rating": "n/a",
+      "link": "/exercises/burpee-pull-up",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Pop Squat",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4551/Male/m/4551_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4551/Male/m/4551_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Body Only",
+      "rating": "n/a",
+      "link": "/exercises/pop-squat",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Trap Bar Jump",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4561/Male/m/4561_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4561/Male/m/4561_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Other",
+      "rating": "n/a",
+      "link": "/exercises/trap-bar-jump",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Dumbbell Jump Squat",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4761/Male/m/4761_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4761/Male/m/4761_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Dumbbell",
+      "rating": "n/a",
+      "link": "/exercises/dumbbell-jump-squat",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Lateral Hop Holding Dumbbells",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4821/Male/m/4821_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4821/Male/m/4821_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Dumbbell",
+      "rating": "n/a",
+      "link": "/exercises/lateral-hop-holding-dumbbells",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Lateral Hop 4 Times To Sprint",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4841/Male/m/4841_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4841/Male/m/4841_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Dumbbell",
+      "rating": "n/a",
+      "link": "/exercises/lateral-hop-4-times-to-sprint",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Wide-Stance Jump Squat To Close-Stance",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4921/Male/m/4921_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4921/Male/m/4921_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Body Only",
+      "rating": "n/a",
+      "link": "/exercises/wide-stance-jump-squat-to-close-stance",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Bar Push-Up Smith Machine",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4951/Male/m/4951_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/4951/Male/m/4951_2.jpg"
+      ],
+      "muscle": "Chest",
+      "equipment": "Other",
+      "rating": "n/a",
+      "link": "/exercises/bar-push-up-smith-machine",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Superman Push-Up",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5011/Male/m/5011_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5011/Male/m/5011_2.jpg"
+      ],
+      "muscle": "Chest",
+      "equipment": "Body Only",
+      "rating": "n/a",
+      "link": "/exercises/superman-push-up",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Jumping Knee Up Down",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5203/Male/m/5203_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5203/Male/m/5203_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Body Only",
+      "rating": "n/a",
+      "link": "/exercises/jumping-knee-up-down",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Burpee Tuck Jump",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5213/Male/m/5213_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5213/Male/m/5213_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Body Only",
+      "rating": "n/a",
+      "link": "/exercises/burpee-tuck-jump",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Wall Sprawl",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5223/Male/m/5223_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5223/Male/m/5223_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Body Only",
+      "rating": "n/a",
+      "link": "/exercises/wall-sprawl",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Wall Mountain Climber",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5253/Male/m/5253_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5253/Male/m/5253_2.jpg"
+      ],
+      "muscle": "Abdominals",
+      "equipment": "Body Only",
+      "rating": "n/a",
+      "link": "/exercises/wall-mountain-climber",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Medicine Ball Ninja",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5273/Male/m/5273_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5273/Male/m/5273_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Medicine Ball",
+      "rating": "n/a",
+      "link": "/exercises/medicine-ball-ninja",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Kettlebell Fire Feet",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5293/Male/m/5293_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5293/Male/m/5293_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Kettlebells",
+      "rating": "n/a",
+      "link": "/exercises/kettlebell-fire-feet",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Reverse Burpee",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5403/Male/m/5403_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5403/Male/m/5403_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Body Only",
+      "rating": "n/a",
+      "link": "/exercises/reverse-burpee",
+      "type": "plyometrics"
+    },
+    {
+      "name": "Burpee Box Jump",
+      "images": [
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5493/Male/m/5493_1.jpg",
+        "https://www.bodybuilding.com/exercises/exerciseImages/sequences/5493/Male/m/5493_2.jpg"
+      ],
+      "muscle": "Quadriceps",
+      "equipment": "Other",
+      "rating": "n/a",
+      "link": "/exercises/burpee-box-jump",
+      "type": "plyometrics"
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
