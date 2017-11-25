@@ -1,0 +1,40 @@
+.gender-selection-image{
+  width: 98%;
+  padding: 1%;
+  display: inline-block;
+  z-index: -2;
+};
+
+.main-image{
+  width: 100%;
+};
+
+.gender-selection-image:hover{
+  width: 100%;
+  padding: 0;
+  z-index: -2;
+  .gender-selection-text{
+    font-size: $xl-size;
+  }
+};
+
+.men-gender-selection, .women-gender-selection{
+  width: 50%;
+  display: inline-block;
+};
+.gender-selection-text{
+  //  border-style: solid;
+  //  border-color: red;
+  //  border-width: 2px;
+  //  z-index: 2;
+  color: white;
+  font-size: $xl-size;
+  font-weight: 600;
+  text-transform: uppercase;
+  margin: -15% auto auto auto;
+  text-align: center;
+  font-family: "Montserrat",
+  Helvetica,
+  Arial,
+  sans-serif;
+};

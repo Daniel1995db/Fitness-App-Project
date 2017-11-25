@@ -9,6 +9,7 @@ import DashboardPage from "../components/DashboardPage";
 import BodyWeigtExercises from "../components/BodyWeightExercises";
 import CardioExercises from "../components/CardioExercises";
 import WeightLiftingExercises from "../components/WeightLiftingExercises";
+import ParallaxPage from "../components/ParallaxPage";
 
 
 const AppRouter = () => (
@@ -19,6 +20,7 @@ const AppRouter = () => (
                 <Route path="/" component={DashboardPage} exact={true} />
                 <Route path="/profile" component={ProfilePage} />
                 <Route path="/about" component={AboutPage} />
+                <Route path="/main" component={ParallaxPage} />
                 <Route path="/workouts" component={WorkoutsPage} exact={true} />
                 <Route path="/workouts/bodyweight" component={BodyWeigtExercises} />
                 <Route path="/workouts/cardio" component={CardioExercises} />
