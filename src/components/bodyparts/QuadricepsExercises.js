@@ -1,8 +1,8 @@
 import React from 'react';
 import Quadriceps from '../exercisesJSON/QuadricepsData';
 
-const QuadricepsExercises = (props) => {
-  return props.data.exercises.map((exercise) => {
+const QuadricepsExercises = () => {
+  return Quadriceps.exercises.map((exercise) => {
     return (
       <div>
         <p>{exercise.name}</p>
@@ -11,6 +11,6 @@ const QuadricepsExercises = (props) => {
       </div>
     )
   });
-};
+}
 
 export default QuadricepsExercises;

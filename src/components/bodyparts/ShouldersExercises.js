@@ -1,8 +1,8 @@
 import React from 'react';
 import Shoulders from '../exercisesJSON/ShouldersData';
 
-const ShouldersExercises = (props) => {
-  return props.data.exercises.map((exercise) => {
+const ShouldersExercises = () => {
+  return Shoulders.exercises.map((exercise) => {
     return (
       <div>
         <p>{exercise.name}</p>
@@ -11,6 +11,6 @@ const ShouldersExercises = (props) => {
       </div>
     )
   });
-};
+}
 
 export default ShouldersExercises;

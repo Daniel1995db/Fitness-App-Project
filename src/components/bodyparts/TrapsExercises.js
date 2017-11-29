@@ -1,8 +1,8 @@
 import React from 'react';
 import Traps from '../exercisesJSON/TrapsData';
 
-const TrapsExercises = (props) => {
-  return props.data.exercises.map((exercise) => {
+const TrapsExercises = () => {
+  return Traps.exercises.map((exercise) => {
     return (
       <div>
         <p>{exercise.name}</p>
@@ -11,6 +11,6 @@ const TrapsExercises = (props) => {
       </div>
     )
   });
-};
+}
 
 export default TrapsExercises;

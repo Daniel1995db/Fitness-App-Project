@@ -1,8 +1,8 @@
 import React from 'react';
 import Glutes from '../exercisesJSON/GlutesData';
 
-const GlutesExercises = (props) => {
-  return props.data.exercises.map((exercise) => {
+const GlutesExercises = () => {
+  return Glutes.exercises.map((exercise) => {
     return (
       <div>
         <p>{exercise.name}</p>
@@ -11,6 +11,6 @@ const GlutesExercises = (props) => {
       </div>
     )
   });
-};
+}
 
 export default GlutesExercises;

@@ -1,8 +1,8 @@
 import React from 'react';
 import Calves from '../exercisesJSON/CalvesData';
 
-const CalvesExercises = (props) => {
-  return props.data.exercises.map((exercise) => {
+const CalvesExercises = () => {
+  return Calves.exercises.map((exercise) => {
     return (
       <div>
         <p>{exercise.name}</p>
@@ -11,6 +11,6 @@ const CalvesExercises = (props) => {
       </div>
     )
   });
-};
+}
 
 export default CalvesExercises;

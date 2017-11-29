@@ -1,8 +1,8 @@
 import React from 'react';
 import LowerBack from '../exercisesJSON/LowerBackData';
 
-const LowerBackExercises = (props) => {
-  return props.data.exercises.map((exercise) => {
+const LowerBackExercises = () => {
+  return LowerBack.exercises.map((exercise) => {
     return (
       <div>
         <p>{exercise.name}</p>
@@ -11,6 +11,6 @@ const LowerBackExercises = (props) => {
       </div>
     )
   });
-};
+}
 
 export default LowerBackExercises;

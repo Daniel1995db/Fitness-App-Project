@@ -1,8 +1,8 @@
 import React from 'react';
 import Hamstring from '../exercisesJSON/HamstringData';
 
-const HamstringsExercises = (props) => {
-  return props.data.exercises.map((exercise) => {
+const HamstringsExercises = () => {
+  return Hamstrings.exercises.map((exercise) => {
     return (
       <div>
         <p>{exercise.name}</p>
@@ -11,6 +11,6 @@ const HamstringsExercises = (props) => {
       </div>
     )
   });
-};
+}
 
 export default HamstringsExercises;

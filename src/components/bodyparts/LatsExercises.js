@@ -1,8 +1,8 @@
 import React from 'react';
 import Lats from '../exercisesJSON/LatsData';
 
-const LatsExercises = (props) => {
-  return props.data.exercises.map((exercise) => {
+const LatsExercises = () => {
+  return Lats.exercises.map((exercise) => {
     return (
       <div>
         <p>{exercise.name}</p>
@@ -11,6 +11,6 @@ const LatsExercises = (props) => {
       </div>
     )
   });
-};
+}
 
 export default LatsExercises;

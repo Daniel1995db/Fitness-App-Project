@@ -1,8 +1,8 @@
 import React from 'react';
 import MiddleBack from '../exercisesJSON/MiddleBackData';
 
-const MiddleBackExercises = (props) => {
-  return props.data.exercises.map((exercise) => {
+const MiddleBackExercises = () => {
+  return MiddleBack.exercises.map((exercise) => {
     return (
       <div>
         <p>{exercise.name}</p>
@@ -11,6 +11,6 @@ const MiddleBackExercises = (props) => {
       </div>
     )
   });
-};
+}
 
 export default MiddleBackExercises;

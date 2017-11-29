@@ -18,8 +18,20 @@ import Triceps from '../exercisesJSON/TricepsData';
 // ReactDOM.render(<TricepsRender data={Triceps} />, document.getElementById('app'));
 
 
-const TricepExercises = (props) => {
-  return props.data.exercises.map((exercise) => {
+// const TricepExercises = (props) => {
+//   return props.data.exercises.map((exercise) => {
+//     return (
+//       <div>
+//         <p>{exercise.name}</p>
+//         <p>Starting Position</p><img src={exercise.images[0]} />
+//         <p>Ending Position</p><img src={exercise.images[1]} />
+//       </div>
+//     )
+//   });
+// };
+
+const TricepExercises = () => {
+  return Triceps.exercises.map((exercise) => {
     return (
       <div>
         <p>{exercise.name}</p>
@@ -28,12 +40,7 @@ const TricepExercises = (props) => {
       </div>
     )
   });
-  // return(
-  //   <div>
-  //     <p>{props.test}</p>
-  //   </div>
-  // );
-};
+}
 
 export default TricepExercises;
 
