@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Shoulders =
-  { "shoulders":
+  { "exercises":
     [
       {
        "name": "Single-Arm Linear Jammer", 

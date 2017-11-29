@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Abdominals = 
-  { "abdominals":
+  { "exercises":
     [
       {
         "name":"One - Arm Medicine Ball Slam",

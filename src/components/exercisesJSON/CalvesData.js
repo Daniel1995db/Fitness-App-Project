@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Calves = 
-{ "calves":
+  { "exercises":
     [
       {
          "name": "Smith Machine Calf Raise", 

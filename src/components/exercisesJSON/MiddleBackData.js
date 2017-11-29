@@ -1,7 +1,7 @@
 import React from 'react';
 
 const MiddleBack = 
-{ "middle back":
+  { "exercises":
     [
       {
        "name": "T-Bar Row with Handle", 

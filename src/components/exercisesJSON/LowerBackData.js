@@ -1,7 +1,7 @@
 import React from 'react';
 
 const LowerBack = 
-{ "lower back":
+  { "exercises":
     [
       { 
         "name": "Atlas Stones", 

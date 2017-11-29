@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Hamstring = 
-{ "hamstring":
+  { "exercises":
     [
       { 
         "name": "Romanian Deadlift With Dumbbells",

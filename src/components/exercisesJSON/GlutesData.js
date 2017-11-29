@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Glutes = 
-{ "glutes":
+  { "exercises":
     [
       { 
         "name": "Barbell Glute Bridge", 

@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Triceps =
-  { "triceps":
+  { "exercises":
     [
       { 
         "name": "Dips - Triceps Version", 

@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Traps =
-  { "traps":
+  { "exercises":
     [
       { 
         "name": "Smith Machine Shrug", 

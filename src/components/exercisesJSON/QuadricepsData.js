@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Quadriceps =
-{ "quadriceps":
+  { "exercises":
     [
       { 
         "name": "Single-Leg Press", 

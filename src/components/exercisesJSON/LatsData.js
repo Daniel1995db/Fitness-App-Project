@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Lats =
-{ "lats":
+  { "exercises":
     [
       { 
         "name": "Weighted Pull Ups", 

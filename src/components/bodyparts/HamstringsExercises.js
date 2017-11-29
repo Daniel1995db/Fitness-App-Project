@@ -1,5 +1,16 @@
 import React from 'react';
 import Hamstring from '../exercisesJSON/HamstringData';
 
-console.log('Lit, we connected');
-console.log(Hamstring);
+const HamstringsExercises = (props) => {
+  return props.data.exercises.map((exercise) => {
+    return (
+      <div>
+        <p>{exercise.name}</p>
+        <p>Starting Position</p><img src={exercise.images[0]} />
+        <p>Ending Position</p><img src={exercise.images[1]} />
+      </div>
+    )
+  });
+};
+
+export default HamstringsExercises;

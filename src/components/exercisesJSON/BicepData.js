@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Biceps = 
-{ "biceps":
+  { "exercises":
     [
       {
         "name":"Incline Hammer Curls",
