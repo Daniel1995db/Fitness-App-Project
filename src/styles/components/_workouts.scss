@@ -1,0 +1,216 @@
+$medium-square-photo: 100%;
+$description-padding: 40%;
+$workout-type-padding: 35%;
+$workout-name: 350%;
+$workout-description: 150%;
+$workout-height: 500px;
+
+// WORKOUT SELECTION 
+.workout-selection-container{
+  width: 80%;
+  margin: auto;
+}
+
+// CARDIO SELECTION --------------------------------------
+.cardio-workout-selection{
+  width: $medium-square-photo;
+  height: $workout-height;
+  background-image: url(/images/WorkoutImages/cardio.jpeg);
+  background-position: center;
+  background-size: cover;
+  // display: inline-block;
+  h3{
+    color: white;
+    text-align: center;
+    padding-top: $workout-type-padding;
+    font-size: $workout-name;
+    margin: 0;
+  }
+  p{
+    display: none;
+  }
+}
+.cardio-workout-selection:hover {
+  p{
+    display: block;
+    color: white;
+    text-align: center;
+    padding-top: $description-padding;
+    font-size: $workout-description;
+    margin: 0;
+  }
+  h3{
+    display: none;
+  }
+}
+
+// BODYWEIGHT SELECTION ---------------------------------
+.bodyweight-workout-selection {
+  width: $medium-square-photo;
+  height: $workout-height;
+  background-image: url(/images/WorkoutImages/bodyweight.jpeg);
+  background-position: center;
+  background-size: cover;
+  // display: inline-block;
+  h3 {
+    color: white;
+    text-align: center;
+    padding-top: $workout-type-padding;
+    font-size: $workout-name;
+    margin: 0;
+  }
+  p {
+    display: none;
+  }
+}
+.bodyweight-workout-selection:hover {
+  p {
+    display: block;
+    color: white;
+    text-align: center;
+    padding-top: $description-padding;
+    font-size: $workout-description;
+    margin: 0;
+  }
+  h3 {
+    display: none;
+  }
+}
+
+// WEIGHTLIFTING SELECTION----------------------------
+.weightlifting-workout-selection {
+  width: $medium-square-photo;
+  height: $workout-height;
+  background-image: url(/images/WorkoutImages/weightlifting.jpeg);
+  background-position: center;
+  background-size: cover;
+  h3 {
+    color: white;
+    text-align: center;
+    padding-top: $workout-type-padding;
+    font-size: $workout-name;
+    margin: 0;
+  }
+  p {
+    display: none;
+  }
+}
+
+.weightlifting-workout-selection:hover {
+  p {
+    display: block;
+    color: white;
+    text-align: center;
+    padding-top: $description-padding;
+    font-size: $workout-description;
+    margin: 0;
+  }
+  h3 {
+    display: none;
+  }
+}
+
+// CROSSFIT SELECTION ------------------------------
+.crossfit-workout-selection {
+  width: $medium-square-photo;
+  height: $workout-height;
+  background-image: url(/images/WorkoutImages/crossfit.jpg);
+  background-position: center;
+  background-size: cover;
+  h3 {
+    color: white;
+    text-align: center;
+    padding-top: $workout-type-padding;
+    font-size: $workout-name;
+    margin: 0;
+  }
+  p {
+    display: none;
+  }
+}
+
+.crossfit-workout-selection:hover {
+  p {
+    display: block;
+    color: white;
+    text-align: center;
+    padding-top: $description-padding;
+    font-size: $workout-description;
+    margin: 0;
+  }
+  h3 {
+    display: none;
+  }
+}
+
+// POWERLIFTING SELECTION---------------------------
+.powerlifting-workout-selection {
+  width: $medium-square-photo;
+  height: $workout-height;
+  background-image: url(/images/WorkoutImages/powerlifting.jpg);
+  background-position: center;
+  background-size: cover;
+  h3 {
+    color: white;
+    text-align: center;
+    padding-top: $workout-type-padding;
+    font-size: $workout-name;
+    margin: 0;
+  }
+  p {
+    display: none;
+  }
+}
+
+.powerlifting-workout-selection:hover {
+  p {
+    display: block;
+    color: white;
+    text-align: center;
+    padding-top: $description-padding;
+    font-size: $workout-description;
+    margin: 0;
+  }
+  h3 {
+    display: none;
+  }
+}
+
+// STRONGMAN SELECTION------------------------------------
+.strongman-workout-selection {
+  width: $medium-square-photo;
+  height: $workout-height;
+  background-image: url(/images/WorkoutImages/strongman.jpg);
+  background-position: center;
+  background-size: cover;
+  h3 {
+    color: white;
+    text-align: center;
+    padding-top: $workout-type-padding;
+    font-size: $workout-name;
+    margin: 0;
+  }
+  p {
+    display: none;
+  }
+}
+
+.strongman-workout-selection:hover {
+  p {
+    display: block;
+    color: white;
+    text-align: center;
+    padding-top: $description-padding;
+    font-size: $workout-description;
+    margin: 0;
+  }
+  h3 {
+    display: none;
+  }
+}
+
+.workout-selection{
+  width: 48%;
+  float: left;
+  padding: 1%;
+}
