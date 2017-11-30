@@ -6,9 +6,13 @@ const WorkoutsPage = (props) => (
   <div>
     <h1>Workouts</h1>
     <p>This page is dedicated to the Workout Database</p>
-    <Link to={`/workouts/bodyweight`} >Body Weight</Link>
-    <Link to={`/workouts/cardio`} >Cardio</Link>
-    <Link to={`/workouts/weightlifting`} >Weight Lifting</Link> 
+    <Link to={`/workouts/cardio`} >Cardio </Link>
+    <Link to={`/workouts/bodyweight`} >Bodyweight </Link>
+    <Link to={`/workouts/weightlifting`} >Weightlifting </Link> 
+    <Link to={`workouts/powerlifting`} >Powerlifting </Link>
+    <Link to={`workouts/strongman`} >Strongman </Link>
+    <Link to={`workouts/crossfit`} >crossfit </Link>
+
   </div>
 );
 

@@ -11,6 +11,10 @@ import DashboardPage from "../components/DashboardPage";
 import BodyWeigtExercises from "../components/BodyWeightExercises";
 import CardioExercises from "../components/CardioExercises";
 import WeightLiftingExercises from "../components/WeightLiftingExercises";
+import PowerliftingPage from '../components/PowerliftingPage';
+import StrongmanPage from '../components/StrongmanPage';
+import CrossfitPage from '../components/CrossfitPage';
+
 import ParallaxPage from "../components/ParallaxPage";
 import ExercisesPage from "../components/ExercisesPage";
 
@@ -33,16 +37,23 @@ const AppRouter = () => (
         <div>
             <Header />
             <Switch>
-                <Route path="/" component={DashboardPage} exact={true} />
-                <Route path="/profile" component={ProfilePage} />
+                <Route path="/" component={ParallaxPage} exact={true} />
+                {/* <Route path="/profile" component={ProfilePage} /> */}
+                {/* <Route path="/main" component={ParallaxPage} /> */}
+
                 <Route path="/benefits" component={BenefitsPage} exact={true} />
                 <Route path="/benefits/men" component={MensPage} />
                 <Route path="/benefits/women" component={WomensPage} />
-                <Route path="/main" component={ParallaxPage} />
+                
+
                 <Route path="/workouts" component={WorkoutsPage} exact={true} />
                 <Route path="/workouts/bodyweight" component={BodyWeigtExercises} />
                 <Route path="/workouts/cardio" component={CardioExercises} />
                 <Route path="/workouts/weightlifting" component={WeightLiftingExercises} />
+                <Route path="/workouts/powerlifting" component={PowerliftingPage} />
+                <Route path="/workouts/strongman" component={StrongmanPage} />
+                <Route path="/workouts/crossfit" component={CrossfitPage} />
+
                 <Route path="/exercises" component={ExercisesPage} exact={true} /> 
                 <Route path="/exercises/abdominals" component={AbdominalExercises} />
                 <Route path="/exercises/biceps" component={BicepsExercises} />
