@@ -1,7 +1,58 @@
-.abdominals-pic{
-  background-image: url(/images/BodyPartImages/abdominals.png);
-  width: 400px;
-  height: 400px;
+$medium-square-photo: 400px;
+
+// CHEST SECTION-----------------------------
+.chest-pic{
+  background-image: url(/images/BodyPartImages/chest.png);
+  width: $medium-square-photo;
+  height: $medium-square-photo;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.7;
+}
+
+// BACK SECTION ---------------------------------
+.traps-pic{
+  background-image: url(/images/BodyPartImages/traps.png);
+  width: $medium-square-photo;
+  height: $medium-square-photo;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.7;
+}
+
+.middleback-pic{
+  background-image: url(/images/BodyPartImages/middleback.png);
+  width: $medium-square-photo;
+  height: $medium-square-photo;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.7;
+}
+
+.lats-pic{
+   background-image: url(/images/BodyPartImages/lats.png);
+   width: $medium-square-photo;
+   height: $medium-square-photo;
+   background-size: cover;
+   background-position: center;
+   opacity: 0.7;
+}
+
+.lowerback-pic{
+  background-image: url(/images/BodyPartImages/lowerback.png);
+  width: $medium-square-photo;
+  height: $medium-square-photo;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.7;
+}
+
+// ARMS SECTION--------------------------
+
+.shoulders-pic {
+  background-image: url(/images/BodyPartImages/shoulders.png);
+  width: $medium-square-photo;
+  height: $medium-square-photo;
   background-size: cover;
   background-position: center;
   opacity: 0.7;
@@ -9,13 +60,89 @@
 
 .biceps-pic {
   background-image: url(/images/BodyPartImages/biceps.png);
-  width: 400px;
-  height: 400px;
+  width: $medium-square-photo;
+  height: $medium-square-photo;
   background-size: cover;
   background-position: center;
   opacity: 0.7;
 }
 
-.abdominals-pic:hover, .biceps-pic:hover {
+.triceps-pic {
+  background-image: url(/images/BodyPartImages/triceps.png);
+  width: $medium-square-photo;
+  height: $medium-square-photo;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.7;
+}
+
+// ABDOMINALS SECTION------------------
+
+.abdominals-pic{
+  background-image: url(/images/BodyPartImages/abdominals.png);
+  width: $medium-square-photo;
+  height: $medium-square-photo;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.7;
+}
+
+//LEGS SECTION --------------------------
+
+.glutes-pic {
+  background-image: url(/images/BodyPartImages/glutes.png);
+  width: $medium-square-photo;
+  height: $medium-square-photo;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.7;
+}
+
+.quadriceps-pic {
+  background-image: url(/images/BodyPartImages/quadriceps.png);
+  width: $medium-square-photo;
+  height: $medium-square-photo;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.7;
+}
+
+.hamstrings-pic {
+  background-image: url(/images/BodyPartImages/hamstrings.png);
+  width: $medium-square-photo;
+  height: $medium-square-photo;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.7;
+}
+
+.calves-pic {
+  background-image: url(/images/BodyPartImages/calves.png);
+  width: $medium-square-photo;
+  height: $medium-square-photo;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.7;
+}
+
+
+// HOVER----------------------------------
+// Hover over effect
+.abdominals-pic:hover,
+.biceps-pic:hover,
+.chest-pic:hover,
+.traps-pic:hover,
+.middleback-pic:hover,
+.lats-pic:hover,
+.lowerback-pic:hover,
+.shoulders-pic:hover,
+.biceps-pic:hover,
+.triceps-pic:hover,
+.abdominals-pic:hover,
+.glutes-pic:hover,
+.quadriceps-pic:hover,
+.hamstrings-pic:hover,
+.calves-pic:hover {
   opacity: 1;
 }
+

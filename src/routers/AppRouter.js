@@ -13,9 +13,9 @@ import CardioExercises from "../components/CardioExercises";
 import WeightLiftingExercises from "../components/WeightLiftingExercises";
 import ParallaxPage from "../components/ParallaxPage";
 import ExercisesPage from "../components/ExercisesPage";
+
 import AbdominalExercises from '../components/bodyparts/AbdominalsExercises';
 import BicepsExercises from '../components/bodyparts/BicepsExercises';
-
 import CalvesExercises from '../components/bodyparts/CalvesExercises';
 import ChestExercises from '../components/bodyparts/ChestExercises';
 import GlutesExercises from '../components/bodyparts/GlutesExercises';
