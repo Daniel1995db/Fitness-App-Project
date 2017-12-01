@@ -3,10 +3,15 @@ import React from 'react';
 const ParallaxPage = () => (
   <div id="parallax-world-of-ugg">
 
+    <div className="fitnics-banner">
+      <h4 className="fitnics-banner-logo">FITNICS</h4>
+      <h4 className="fitnics-banner-slogan">...a new you</h4>
+    </div>
+
     <section>
       <div className="parallaxTitle">
         {/* <h3>Let's do some</h3> */}
-        <h1>Fitnics</h1>
+        <h1>Your new health companion</h1>
       </div>
     </section>
 

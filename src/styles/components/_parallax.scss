@@ -109,7 +109,6 @@
 
 /* Section - Title */
 
-
 /**************************/
 
 #parallax-world-of-ugg .parallaxTitle {
@@ -297,4 +296,33 @@
 }
 .text-next-to-image2{
   float: right;
+}
+
+
+// BANNER-----------
+.fitnics-banner{
+  width: 100%;
+  height: 300px;
+  background-image: url(/images/fitnics-banner.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.fitnics-banner-logo {
+  font-size: 500%;
+  margin: 0;
+  font-family: 'Oswald',
+  sans-serif;
+  font-weight: 550;
+  text-align: center;
+  background: -webkit-linear-gradient(rgb(73, 78, 74), rgb(243, 239, 239));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.fitnics-banner-slogan {
+  text-align: right;
+  margin-left: auto;
+  font-size: 200%;
+  font-family: 'Oswald';
+  font-weight: 400;
+  padding-right: 60px;
 }

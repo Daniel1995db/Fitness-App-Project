@@ -30,7 +30,9 @@ import TricepExercises from './bodyparts/TricepsExercises';
 const ExercisesPage = () => (
   <div>
 
-    {/* DOnt Forget to put that red is primary, pink is secondary and basic explanation of this page */}
+    <div className="exercise-page-banner"></div>
+    
+    <h3 className="exercise-page-welcome">Unsure of how to execute a certain movement? Browse through our exercises and we’ll show you. Pick a body part to get started. </h3>
 
     {/* Chest Section ----------------------- */}
     <h1 className="body-section">Chest</h1>
@@ -262,10 +264,10 @@ const ExercisesPage = () => (
         <div className="calves-pic"></div>
       </Link>
     </div>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
+    
+    <div className="physician-warning">
+      <p>Always consult with a qualified healthcare professional prior to beginning any diet or exercise program or taking any dietary supplement. The content on our website is for informational and educational purposes only and is not intended as medical advice or to replace a relationship with a qualified healthcare professional.</p>
+    </div>
 
   </div>
 );

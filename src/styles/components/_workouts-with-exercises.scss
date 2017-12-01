@@ -1,0 +1,63 @@
+.cardio-image{
+  background-image: url(/images/shoes-running-stairs.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 500px;;
+  height: 500px;
+  margin: 0;
+  flex: 1;
+}
+.weightlifting-image {
+  background-image: url(/images/silver-dumbbell-on-floor.jpg);
+  background-size: cover;
+  background-position: center;
+  width: 500px;
+  ;
+  height: 500px;
+  margin: 0;
+  flex: 1;
+}
+
+.workout-page-and-exercises{
+  width: 85%;
+  margin: 3.5% auto;
+  display: flex;
+}
+.exercises-workouts-info{
+  flex: 1;
+  width: 80%;
+  padding: 3.5%;
+  line-height: 1.7;
+  font-weight: 400;
+  font-size: 120%;
+}
+.exercises-workouts-heading{
+  margin-top: 1%;
+  font-size: 300%;
+}
+.bold{
+  font-weight: bold;
+}
+// .cardio-workouts{
+//   width: 80%;
+//   margin: auto;
+//   // text-align: center;
+//   font-size: 200%;
+// }
+// .table-row{
+//   padding: 50px;
+// }
+// .th-data{
+//   margin: 5px;
+// }
+.workouts{
+  width: 43%;
+  margin: 3% auto;
+  box-shadow: 0px 1px 4px #a6a6a6;
+  padding: 2.7%;
+  .workout-exercise-description{
+    width: 80%;
+    margin: auto;
+    line-height: 1.8;
+  }
+}
