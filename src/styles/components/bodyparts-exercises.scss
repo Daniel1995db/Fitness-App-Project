@@ -1,0 +1,174 @@
+$medium-square-photo: 400px;
+
+.exercises-body-page{
+  width: 85%;
+  margin: auto;
+}
+
+.exercise-info-container{
+  display: flex;
+  width: 100%;
+  margin: auto;
+}
+.exercise-description-info{
+  flex: 1;
+}
+.chest-exercise-image, 
+.abdominals-exercise-image, 
+.biceps-exercise-image, 
+.calves-exercise-image,
+.glutes-exercise-image,
+.hamstrings-exercise-image,
+.lats-exercise-image,
+.lowerback-exercise-image,
+.middleback-exercise-image,
+.quadriceps-exercise-image,
+.shoulders-exercise-image,
+.traps-exercise-image,
+.triceps-exercise-image {
+  flex: 1;
+}
+.exercise-heading-name{
+  padding-top: 4%;
+}
+.exercise-about-info{
+  font-size: 150%;
+}
+
+.exercises-info{
+  width: 50%;
+}
+.exercises-warning{
+  p{
+    padding-top: 1.5%;
+    width: 50%;
+    text-align: center;
+    margin: auto;
+  }
+}
+.list-of-exercises-heading{
+  width: 50%;
+  margin: auto;
+  border-bottom-style: solid;
+  font-size: 200%;
+  text-align: center;
+}
+
+.exercise-instructions-cointainer{
+  width: 80%;
+  margin: auto;
+}
+.exercise-instruction-name{
+  font-weight: bold;
+  font-size: 150%;
+  margin-top: 5%;
+  margin-bottom: 2%;
+}
+.exercise-instruction-text-img1{
+  margin-top: 0;
+  font-weight: bold;
+}
+.exercise-instruction-text-img2{
+  margin-top: 0;
+  font-weight: bold;
+
+}
+.exercise-instructions-cointainer-flex{
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+
+// ---------------
+.chest-exercise-image {
+  background-image: url(/images/BodyPartImages/chest.png);
+  width: $medium-square-photo;
+  height: $medium-square-photo;
+  background-size: cover;
+  background-position: center;
+}
+.abdominals-exercise-image {
+  background-image: url(/images/BodyPartImages/abdominals.png);
+  width: $medium-square-photo;
+  height: $medium-square-photo;
+  background-size: cover;
+  background-position: center;
+}
+.biceps-exercise-image {
+  background-image: url(/images/BodyPartImages/biceps.png);
+  width: $medium-square-photo;
+  height: $medium-square-photo;
+  background-size: cover;
+  background-position: center;
+}
+.calves-exercise-image {
+  background-image: url(/images/BodyPartImages/calves.png);
+  width: $medium-square-photo;
+  height: $medium-square-photo;
+  background-size: cover;
+  background-position: center;
+}
+.glutes-exercise-image {
+  background-image: url(/images/BodyPartImages/glutes.png);
+  width: $medium-square-photo;
+  height: $medium-square-photo;
+  background-size: cover;
+  background-position: center;
+}
+.hamstrings-exercise-image {
+  background-image: url(/images/BodyPartImages/hamstrings.png);
+  width: $medium-square-photo;
+  height: $medium-square-photo;
+  background-size: cover;
+  background-position: center;
+}
+.lats-exercise-image {
+  background-image: url(/images/BodyPartImages/lats.png);
+  width: $medium-square-photo;
+  height: $medium-square-photo;
+  background-size: cover;
+  background-position: center;
+}
+.lowerback-exercise-image {
+  background-image: url(/images/BodyPartImages/lowerback.png);
+  width: $medium-square-photo;
+  height: $medium-square-photo;
+  background-size: cover;
+  background-position: center;
+}
+.middleback-exercise-image {
+  background-image: url(/images/BodyPartImages/middleback.png);
+  width: $medium-square-photo;
+  height: $medium-square-photo;
+  background-size: cover;
+  background-position: center;
+}
+.quadriceps-exercise-image {
+  background-image: url(/images/BodyPartImages/quadriceps.png);
+  width: $medium-square-photo;
+  height: $medium-square-photo;
+  background-size: cover;
+  background-position: center;
+}
+.shoulders-exercise-image {
+  background-image: url(/images/BodyPartImages/shoulders.png);
+  width: $medium-square-photo;
+  height: $medium-square-photo;
+  background-size: cover;
+  background-position: center;
+}
+.traps-exercise-image {
+  background-image: url(/images/BodyPartImages/traps.png);
+  width: $medium-square-photo;
+  height: $medium-square-photo;
+  background-size: cover;
+  background-position: center;
+}
+.triceps-exercise-image {
+  background-image: url(/images/BodyPartImages/triceps.png);
+  width: $medium-square-photo;
+  height: $medium-square-photo;
+  background-size: cover;
+  background-position: center;
+}

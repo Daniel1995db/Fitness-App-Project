@@ -1,0 +1,45 @@
+.see-more{
+  background-image: url(/images/see-more.png);
+  background-position: center;
+  background-size: cover;
+  width: 45px;
+  height:45px;
+  margin: 0;
+  position: right;
+  float: right;
+}
+
+
+.body-section{
+  text-align: center;
+  width: 40%;
+  margin: auto;
+  font-size: 300%;
+  border-bottom-style: solid;
+  margin-bottom: 2.5%;
+}
+.bodypart-selection{
+  width: 80%;
+  margin: auto;
+  display: flex;
+}
+.chest-pic{
+  // display: inline-block;
+  // width: 40%;
+  flex: 3;
+}
+.name-and-description{
+  // display: inline-block;
+  color: black;
+  // width: 55%;
+  flex: 1;
+  margin-top: 5%;
+  padding-left: 1%;
+}
+.exercise-name{
+  font-size: 200%;
+  color: black;
+}
+.exercise-brief-description{
+  font-size: 150%;
+}

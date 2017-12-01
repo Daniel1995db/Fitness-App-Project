@@ -29,132 +29,243 @@ import TricepExercises from './bodyparts/TricepsExercises';
 
 const ExercisesPage = () => (
   <div>
+
+    {/* DOnt Forget to put that red is primary, pink is secondary and basic explanation of this page */}
+
     {/* Chest Section ----------------------- */}
-    <h1>Chest</h1>
-      <div>
-        <Link to={`/exercises/chest`} style={{ textDecoration: 'none' }}>
-          <div className="chest-pic"></div>
-          <h3 className="exercise-name">Pectoral</h3>
-        </Link>
-          <p className="exercise-brief-description">The muscles that connect the front of the human chest with the bones of the upper arm and shoulder.(commonly referred to as "pecs") </p>
+    <h1 className="body-section">Chest</h1>
+
+      <div className="bodypart-selection">
+
+          <Link to={`/exercises/chest`} style={{ textDecoration: 'none' }}>
+            <div className="chest-pic"></div>
+          </Link>
+
+          <div className="name-and-description">
+            <Link to={`/exercises/chest`} style={{ textDecoration: 'none' }}> 
+              <h3 className="exercise-name">Pectoral</h3>
+            </Link>
+        <p className="exercise-brief-description">(Commonly referred to as "pecs") The muscles that connect the front of the human chest with the bones of the upper arm and shoulder. </p>
+            <Link to={`/exercises/chest`} style={{ textDecoration: 'none' }}>
+              <p className="see-more"></p>
+            </Link>
+          </div>
       </div>
 
     {/* BACK SECTION -------------------------- */}
-    <h1>Back</h1>
-      <div>
+
+    <h1 className="body-section">Back</h1>
+
+    <div className="bodypart-selection">
+      <Link to={`/exercises/traps`} style={{ textDecoration: 'none' }}>
+        <div className="traps-pic"></div>
+      </Link>
+
+      <div className="name-and-description">
         <Link to={`/exercises/traps`} style={{ textDecoration: 'none' }}>
-          <div className="traps-pic"></div>
           <h3 className="exercise-name">Trapezius</h3>
         </Link>
-          <p className="exercise-brief-description">One of two large surface muscles that extend longitudinally from the occipital bone to the lower thoracic vertebrae of the spine and laterally to the spine of the scapula.</p>
+        <p className="exercise-brief-description">One of two large surface muscles that extend longitudinally from the occipital bone to the lower thoracic vertebrae of the spine and laterally to the spine of the scapula. </p>
+        <Link to={`/exercises/traps`} style={{ textDecoration: 'none' }}>
+          <p className="see-more"></p>
+        </Link>
       </div>
+    </div>
 
-      <div>
+    <div className="bodypart-selection">
+      <div className="name-and-description">
         <Link to={`/exercises/middleback`} style={{ textDecoration: 'none' }}>
           <h3 className="exercise-name">Middle Back</h3>
         </Link>
-          <p className="exercise-brief-description">The rhomboid major is a skeletal muscle on the back that connects the scapula with the vertebrae of the spinal column.</p>
+          <p className="exercise-brief-description">The rhomboid major, the primary muscle of the middle back, is a skeletal muscle on the back that connects the scapula with the vertebrae of the spinal column.</p>
         <Link to={`/exercises/middleback`} style={{ textDecoration: 'none' }}>
-          <div className="middleback-pic"></div>
+          <p className="see-more"></p>
         </Link>
       </div>
+      <Link to={`/exercises/middleback`} style={{ textDecoration: 'none' }}>
+        <div className="middleback-pic"></div>
+      </Link>
+    </div>
 
-      <div>
+    <div className="bodypart-selection">
+
+      <Link to={`/exercises/lats`} style={{ textDecoration: 'none' }}>
+        <div className="lats-pic"></div>
+      </Link>
+
+      <div className="name-and-description">
         <Link to={`/exercises/lats`} style={{ textDecoration: 'none' }}>
-          <div className="lats-pic"></div>
           <h3 className="exercise-name">Latissimus dorsi (Lats)</h3>
         </Link>
-          <p className="exercise-brief-description">A large, flat muscle on the back that stretches to the sides, behind the arm, and is partly covered by the trapezius on the back near the midline.</p>
+        <p className="exercise-brief-description">(Commonly reffered to as, "the lats") A large, flat muscle on the back that stretches to the sides, behind the arm, and is partly covered by the trapezius on the back near the midline.</p>
+        <Link to={`/exercises/lats`} style={{ textDecoration: 'none' }}>
+          <p className="see-more"></p>
+        </Link>
       </div>
+    </div>
 
-      <div>
+    <div className="bodypart-selection">
+
+      <div className="name-and-description">
         <Link to={`/exercises/lowerback`} style={{ textDecoration: 'none' }}>
           <h3 className="exercise-name">Lower Back</h3>
         </Link>
-          <p className="exercise-brief-description">The thoracolumbar fascia is a large area of connective tissue - roughly diamond-shaped - which comprises the thoracic and lumbar parts of the deep fascia enclosing the intrinsic back muscles.</p>
+        <p className="exercise-brief-description">The thoracolumbar fascia is a large area of connective tissue - roughly diamond-shaped - which comprises the thoracic and lumbar parts of the deep fascia enclosing the intrinsic back muscles.</p>
         <Link to={`/exercises/lowerback`} style={{ textDecoration: 'none' }}>
-          <div className="lowerback-pic"></div>
+          <p className="see-more"></p>
         </Link>
       </div>
+      <Link to={`/exercises/lowerback`} style={{ textDecoration: 'none' }}>
+        <div className="middleback-pic"></div>
+      </Link>
+    </div>
 
     {/* ARMS SECTION ---------------------- */}
-    <h1>Arms</h1>
 
-      <div>
+    <h1 className="body-section">Arms</h1>
+
+    <div className="bodypart-selection">
+
+      <Link to={`/exercises/shoulders`} style={{ textDecoration: 'none' }}>
+        <div className="shoulders-pic"></div>
+      </Link>
+
+      <div className="name-and-description">
         <Link to={`/exercises/shoulders`} style={{ textDecoration: 'none' }}>
-          <div className="shoulders-pic"></div>
           <h3 className="exercise-name">Shoulders</h3>
         </Link>
-          <p className="exercise-brief-description">A complex combination of bones and joints where many muscles act to provide the widest range of motion of any part of the body.</p>
+        <p className="exercise-brief-description">A complex combination of bones and joints where many muscles act to provide the widest range of motion of any part of the body.</p>
+        <Link to={`/exercises/shoulders`} style={{ textDecoration: 'none' }}>
+          <p className="see-more"></p>
+        </Link>
       </div>
+    </div>
 
-      <div>
+    <div className="bodypart-selection">
+
+      <div className="name-and-description">
         <Link to={`/exercises/biceps`} style={{ textDecoration: 'none' }}>
           <h3 className="exercise-name">Biceps</h3>
         </Link>
-          <p className="exercise-brief-description">A two-headed muscle that lies on the upper arm between the shoulder and the elbow.</p>
+        <p className="exercise-brief-description">The bicep is consisted of your thoracolumbar fascia. A large area of connective tissue - roughly a two-headed muscle that lies on the upper arm between the shoulder and the elbow.</p>
         <Link to={`/exercises/biceps`} style={{ textDecoration: 'none' }}>
-          <div className="biceps-pic"></div>
+          <p className="see-more"></p>
         </Link>
       </div>
+      <Link to={`/exercises/biceps`} style={{ textDecoration: 'none' }}>
+        <div className="biceps-pic"></div>
+      </Link>
+    </div>
 
-      <div>
+    <div className="bodypart-selection">
+
+      <Link to={`/exercises/triceps`} style={{ textDecoration: 'none' }}>
+        <div className="triceps-pic"></div>
+      </Link>
+
+      <div className="name-and-description">
         <Link to={`/exercises/triceps`} style={{ textDecoration: 'none' }}>
-          <div className="triceps-pic"></div>
           <h3 className="exercise-name">Triceps</h3>
         </Link>
-        <p className="exercise-brief-description">The only muscle on the back of the upper arm. It is the muscle principally responsible for extension of the elbow joint</p>
+        <p className="exercise-brief-description">The only muscle on the back of the upper arm. It is the muscle principally responsible for the extension of your elbow joint.</p>
+        <Link to={`/exercises/triceps`} style={{ textDecoration: 'none' }}>
+          <p className="see-more"></p>
+        </Link>
       </div>
+    </div>
 
     {/* CORE SECTION -------------------------- */}
-    <h1>Core</h1>
+    <h1 className="body-section">Core</h1>
 
-      <div>
+    <div className="bodypart-selection">
+
+      <Link to={`/exercises/abdominals`} style={{ textDecoration: 'none' }}>
+        <div className="abdominals-pic"></div>
+      </Link>
+
+      <div className="name-and-description">
         <Link to={`/exercises/abdominals`} style={{ textDecoration: 'none' }}>
-          <div className="abdominals-pic"></div>
           <h3 className="exercise-name">Abdominals</h3>
         </Link>
-          <p className="exercise-brief-description">Commonly referred to as the “abs,” are a pair of long, flat muscles that extend vertically along the entire length of your core</p>
+        <p className="exercise-brief-description">Your core ,commonly referred to as the “abs,” are a pair of long, flat muscles that extend vertically along the entire length of your core.</p>
+        <Link to={`/exercises/abdominals`} style={{ textDecoration: 'none' }}>
+          <p className="see-more"></p>
+        </Link>
       </div>
+    </div>
 
     {/* LEGS SECTION ---------------------------- */}
-    <h1>Legs</h1>
+    <h1 className="body-section">Legs</h1>
 
-      <div>
+    <div className="bodypart-selection">
+
+      <Link to={`/exercises/glutes`} style={{ textDecoration: 'none' }}>
+        <div className="glutes-pic"></div>
+      </Link>
+
+      <div className="name-and-description">
         <Link to={`/exercises/glutes`} style={{ textDecoration: 'none' }}>
-          <div className="glutes-pic"></div>
           <h3 className="exercise-name">Glutes</h3>
         </Link>
-          <p className="exercise-brief-description">The gluteus maximus muscle is located in the buttocks and is regarded as one of the strongest muscles in the human body</p>
+        <p className="exercise-brief-description">The gluteus maximus muscle is located in the buttocks and is regarded as one of the strongest muscles in the human body.</p>
+        <Link to={`/exercises/glutes`} style={{ textDecoration: 'none' }}>
+          <p className="see-more"></p>
+        </Link>
       </div>
+    </div>
 
-      <div>
-        <Link to={`/exercises/quadriceps`} style={{ textDecoration: 'none' }} >
+    <div className="bodypart-selection">
+
+      <div className="name-and-description">
+        <Link to={`/exercises/quadriceps`} style={{ textDecoration: 'none' }}>
           <h3 className="exercise-name">Quadriceps</h3>
         </Link>
-          <p className="exercise-brief-description">A large muscle group that includes the four prevailing muscles on the front of the thigh</p>
+        <p className="exercise-brief-description">A large muscle group that includes the four prevailing muscles on the front of the thigh.</p>
         <Link to={`/exercises/quadriceps`} style={{ textDecoration: 'none' }}>
-          <div className="quadriceps-pic"></div>
+          <p className="see-more"></p>
         </Link>
       </div>
+      <Link to={`/exercises/quadriceps`} style={{ textDecoration: 'none' }}>
+        <div className="quadriceps-pic"></div>
+      </Link>
+    </div>
 
-      <div>
+    <div className="bodypart-selection">
+
+      <Link to={`/exercises/hamstrings`} style={{ textDecoration: 'none' }}>
+        <div className="hamstrings-pic"></div>
+      </Link>
+
+      <div className="name-and-description">
         <Link to={`/exercises/hamstrings`} style={{ textDecoration: 'none' }}>
-          <div className="hamstrings-pic"></div>
-          <h3 className="exercise-name">hamstrings</h3>
+          <h3 className="exercise-name">Hamstrings</h3>
         </Link>
-      <p className="exercise-brief-description">A muscle that runs down the back of the thigh. The hamstrings work together to flex the leg at the knee</p>
+        <p className="exercise-brief-description">A muscle that runs down the back of the thigh. The hamstrings work together to flex the leg at the knee.</p>
+        <Link to={`/exercises/hamstrings`} style={{ textDecoration: 'none' }}>
+          <p className="see-more"></p>
+        </Link>
       </div>
+    </div>
 
-      <div>
-        <Link to={`/exercises/calves`} style={{ textDecoration: 'none' }} >
+    <div className="bodypart-selection">
+
+      <div className="name-and-description">
+        <Link to={`/exercises/calves`} style={{ textDecoration: 'none' }}>
           <h3 className="exercise-name">Calves</h3>
         </Link>
-          <p className="exercise-brief-description">A muscle on the back of the leg that connects the knee with the heel.</p>
+        <p className="exercise-brief-description">A muscle on the back of the leg that connects the knee with the heel.</p>
         <Link to={`/exercises/calves`} style={{ textDecoration: 'none' }}>
-          <div className="calves-pic"></div>
+          <p className="see-more"></p>
         </Link>
       </div>
+      <Link to={`/exercises/calves`} style={{ textDecoration: 'none' }}>
+        <div className="calves-pic"></div>
+      </Link>
+    </div>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
 
   </div>
 );
