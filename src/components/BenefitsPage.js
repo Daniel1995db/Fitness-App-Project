@@ -5,6 +5,14 @@ import WomensPage from './WomensPage';
 
 const BenefitsPage = () => (
   <div className="benefits-page-container">
+
+    <div className="benefits-page-banner">
+      <p className="benefits-banner-img1"></p>
+      <p className="benefits-banner-img2"></p>
+      <p className="benefits-banner-img3"></p>
+      <p className="benefits-banner-img4"></p>
+    </div>
+
     <h1 className="benefits-title">Benefits of Fitnics</h1>
 
     <div className="11-resons-to-workout">

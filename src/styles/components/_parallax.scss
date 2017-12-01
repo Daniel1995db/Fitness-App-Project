@@ -293,6 +293,7 @@
 }
 .text-next-to-image1, .text-next-to-image3{
   float: left;
+  padding-right: 20px;
 }
 .text-next-to-image2{
   float: right;
@@ -302,7 +303,7 @@
 // BANNER-----------
 .fitnics-banner{
   width: 100%;
-  height: 300px;
+  height: 500px;
   background-image: url(/images/fitnics-banner.jpg);
   background-position: center;
   background-size: cover;
@@ -321,6 +322,7 @@
 .fitnics-banner-slogan {
   text-align: right;
   margin-left: auto;
+  margin-top: 170px;
   font-size: 200%;
   font-family: 'Oswald';
   font-weight: 400;

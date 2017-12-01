@@ -78,3 +78,52 @@
   line-height: 1.5;
   padding: 2%;
 }
+
+// BANNER------------------------
+.benefits-page-banner{
+  width: 100%;
+  height: 275px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.benefits-banner-img1{
+  background-image: url(/images/blueberries.jpg);
+  background-position: center;
+  background-size: cover;
+  width: 25%;
+  margin: 0;
+  p{
+    margin: 0;
+  }
+}
+.benefits-banner-img2 {
+  background-image: url(/images/woman-balance.jpg);
+  background-position: center;
+  background-size: cover;
+  width: 25%;
+  margin: 0;
+  p{
+    margin: 0;
+  }
+}
+.benefits-banner-img3 {
+  background-image: url(/images/measuring-tape.jpg);
+  background-position: center;
+  background-size: cover;
+  width: 25%;
+  margin: 0;
+  p{
+    margin: 0;
+  }
+}
+.benefits-banner-img4 {
+  background-image: url(/images/snatch-home-gym.jpg);
+  background-position: center;
+  background-size: cover;
+  width: 25%;
+  margin: 0;
+  p{
+    margin: 0;
+  }
+}
