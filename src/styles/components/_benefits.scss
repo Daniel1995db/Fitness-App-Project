@@ -1,3 +1,8 @@
+
+.benefits-title{
+  text-align: left;
+  font-size: 250%;
+}
 .gender-selection-image{
   width: 98%;
   padding: 1%;
@@ -13,6 +18,7 @@
   width: 100%;
   padding: 0;
   z-index: -2;
+  box-shadow: 0px 1px 4px #a6a6a6;
   .gender-selection-text{
     font-size: $xl-size;
   }
@@ -21,6 +27,7 @@
 .men-gender-selection, .women-gender-selection{
   width: 50%;
   display: inline-block;
+
 };
 .gender-selection-text{
   //  border-style: solid;
@@ -33,8 +40,41 @@
   text-transform: uppercase;
   margin: -15% auto auto auto;
   text-align: center;
-  font-family: "Montserrat",
-  Helvetica,
-  Arial,
-  sans-serif;
+  // font-family: "Montserrat",
+  // Helvetica,
+  // Arial,
+  // sans-serif;
 };
+.gender-selection-instructions{
+  text-align: center;
+  margin-top: 6%;
+}
+.benefits-to-workout-title{
+  padding-left: 10%;
+  font-size: 200%;
+}
+
+
+.reason-container{
+  width: 45%;
+  margin: auto;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #cccccc;
+  box-shadow: 2px 1px 4px #a6a6a6;
+  margin-bottom: 5%;
+}
+.reason-number{
+  display: inline-block;
+  width: 20%;
+  text-align: center;
+}
+.reason-heading{
+  display: inline-block;
+  width: 80%;
+}
+.reason{
+  font-size: 120%;
+  line-height: 1.5;
+  padding: 2%;
+}

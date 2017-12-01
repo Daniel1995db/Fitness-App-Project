@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 const WorkoutsPage = (props) => (
   <div>
     <h1>Workouts</h1>
-    <p>This page is dedicated to the Workout Database</p>
+    <p>browse our workout templates for inspiration</p>
 
   <div className="workout-selection-container">
 
@@ -65,8 +65,11 @@ const WorkoutsPage = (props) => (
       </Link>
     </div>
 
+      {/* <p className="warning">Always consult with a qualified healthcare professional prior to beginning any diet or exercise program or taking any dietary supplement. The content on our website is for informational and educational purposes only and is not intended as medical advice or to replace a relationship with a qualified healthcare professional.</p> */}
 
   </div>
+
+    
 
   </div>
 );

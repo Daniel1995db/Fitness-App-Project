@@ -18,6 +18,7 @@ $workout-height: 500px;
   background-image: url(/images/WorkoutImages/cardio.jpeg);
   background-position: center;
   background-size: cover;
+  box-shadow: 5px 7px 8px #444343;
   // display: inline-block;
   h3{
     color: white;
@@ -51,6 +52,7 @@ $workout-height: 500px;
   background-image: url(/images/WorkoutImages/bodyweight.jpeg);
   background-position: center;
   background-size: cover;
+  box-shadow: 5px 7px 8px #444343;
   // display: inline-block;
   h3 {
     color: white;
@@ -84,6 +86,7 @@ $workout-height: 500px;
   background-image: url(/images/WorkoutImages/weightlifting.jpeg);
   background-position: center;
   background-size: cover;
+  box-shadow: 5px 7px 8px #444343;
   h3 {
     color: white;
     text-align: center;
@@ -117,6 +120,7 @@ $workout-height: 500px;
   background-image: url(/images/WorkoutImages/crossfit.jpg);
   background-position: center;
   background-size: cover;
+  box-shadow: 5px 7px 8px #444343;
   h3 {
     color: white;
     text-align: center;
@@ -150,6 +154,7 @@ $workout-height: 500px;
   background-image: url(/images/WorkoutImages/powerlifting.jpg);
   background-position: center;
   background-size: cover;
+  box-shadow: 5px 7px 8px #444343;
   h3 {
     color: white;
     text-align: center;
@@ -183,6 +188,7 @@ $workout-height: 500px;
   background-image: url(/images/WorkoutImages/strongman.jpg);
   background-position: center;
   background-size: cover;
+  box-shadow: 5px 7px 8px #444343;
   h3 {
     color: white;
     text-align: center;
@@ -214,3 +220,14 @@ $workout-height: 500px;
   float: left;
   padding: 1%;
 }
+
+
+// .warning{
+//   width: 40%;
+//   color: black;
+//   opacity: 0.5;
+//   text-align: center;
+//   margin: 5% auto;
+//   padding-top: -5%;
+//   z-index: -3;
+// }
