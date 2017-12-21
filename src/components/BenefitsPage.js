@@ -13,8 +13,6 @@ const BenefitsPage = () => (
       <p className="benefits-banner-img4"></p>
     </div>
 
-    <h1 className="benefits-title">Benefits of Fitnics</h1>
-
     <div className="11-resons-to-workout">
       <h2 className="benefits-to-workout-title">11 Benefits of Exercise</h2>
 

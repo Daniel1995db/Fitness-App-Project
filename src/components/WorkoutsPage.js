@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 const WorkoutsPage = (props) => (
   <div>
-    <h1>Workouts</h1>
+    <h1 className="workouts-page-header">Workouts</h1>
     <h3 className="workouts-page-welcome">Not quite of how to go about your workouts? Or maybe you need Inspiration for a new one? Browse through our workout templates and we’ll help you out there. Just select your workout type to get started. </h3>
 
   <div className="workout-selection-container">
@@ -39,7 +39,7 @@ const WorkoutsPage = (props) => (
     <div className="workout-selection">
       <Link to={`/workouts/crossfit`} style={{ textDecoration: 'none' }}>
         <div className="crossfit-workout-selection">
-          <h3>Crossfit</h3>
+          <h3>CrossFit</h3>
           <p>Training that reflects the best aspects of gymnastics, weightlifting, running, rowing and more.
           </p>
         </div>

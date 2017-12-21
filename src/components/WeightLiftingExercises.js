@@ -41,8 +41,6 @@ const WeightLiftingExercises = () => (
           <h5 className="exercise-movement">Push-ups</h5>
           <p> - 2 sets to failure</p>
         </div>
-        
-        
     </div>
 
     <div className="physician-warning">
