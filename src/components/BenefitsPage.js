@@ -79,7 +79,7 @@ const BenefitsPage = () => (
 
 
 
-  <div>
+  {/* <div>
     <h3 className="gender-selection-instructions">Select your gender to find out more</h3>
     <div className="men-gender-selection">
         <Link to={`/benefits/men`} style={{ textDecoration: 'none' }}>
@@ -93,7 +93,7 @@ const BenefitsPage = () => (
         <h1 className="gender-selection-text">Women</h1>
       </Link>
     </div>
-  </div>
+  </div> */}
   </div>
 );
 
